@@ -19,7 +19,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: diamondburned
+          user: danstis
           template: classic
           base: activity, repositories
           config_animated: yes
